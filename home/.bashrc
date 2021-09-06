@@ -122,3 +122,4 @@ export NVM_DIR="$HOME/.nvm"
 
 source "$HOME/.homesick/repos/homeshick/homeshick.sh"
 source "$HOME/.homesick/repos/homeshick/completions/homeshick-completion.bash"
+eval "$(starship init bash)"
